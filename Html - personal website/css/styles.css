@@ -1,0 +1,27 @@
+/****************************************** the body part*****************************************************/
+body {
+  background-color: #bedbbb;
+}
+
+h3 {
+  color: #66bfbf;
+}
+
+h1{
+  color: blue;
+}
+
+/****************************************** 2 ND PART*****************************************************/
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+/****************************************** class *****************************************************/
+.punit:hover {
+  background-color: gold;
+  border-radius: 30%;
+}
